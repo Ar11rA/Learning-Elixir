@@ -11,6 +11,8 @@
 - [x] With operator
 - [x] Strings
 - [x] Files
+- [x] Tasks
+- [ ] Error Handling
 
 All code files are inside `lib` fodler. To run a particular file from root:
 
